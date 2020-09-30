@@ -1,3 +1,6 @@
+import time
+import requests
+
 Client_ID = "Input your client_id"
 botToken = "Input your botToken"
 
